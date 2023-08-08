@@ -5,7 +5,7 @@
 
 ### a. Introduction to Next.js
 
-    1. <details><summary>What is Next.js and its purpose?</summary>
+<details><summary>1. What is Next.js and its purpose?</summary>
 
     Next.js is an open-source React framework that enables several extra features, including server-side rendering and generating static websites. It is a powerful tool that can be used to build a variety of web applications, including blogs, landing pages, e-commerce sites, and more.
  </details>
